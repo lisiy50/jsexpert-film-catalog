@@ -1,0 +1,7 @@
+.film-card .mat-card {
+    padding: 24px 0;
+}
+.film-card .mat-card-content img {
+    float: left;
+    width: 30%;
+}
